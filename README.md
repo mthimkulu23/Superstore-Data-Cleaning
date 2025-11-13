@@ -87,5 +87,5 @@ superstore-data-analysis
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/superstore-data-analysis.git
+   git clone https://github.com/mthimkulu23/Superstore-Data-Cleaning.git
    cd superstore-data-analysis
